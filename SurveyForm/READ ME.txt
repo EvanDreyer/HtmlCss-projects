@@ -1,0 +1,21 @@
+This project is a simple and responsive HTML survey form designed to collect basic user information, preferences, and feedback. It demonstrates the use of HTML form elements such as text inputs, radio buttons, checkboxes, dropdowns, and text areas.
+
+Technology used:
+HTML for structure and form elements
+CSS for styling and layout
+
+Features:
+User information fields:
+collects user name, email, age
+
+Role Selection:
+Dropdown menu for selecting whether the user is a Student, Teacher, or Professional
+
+Skill checkboxes:
+Lets users check all programming languages and frameworks they’re familiar with.
+
+Comment box:
+Multi line text area for additional comments or suggestions.
+
+Submit button:
+A basic button to submit form data.
